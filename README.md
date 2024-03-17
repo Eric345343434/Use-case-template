@@ -24,5 +24,5 @@ Die BORG-Skala ist den beteiligten Personen bekannt/ wurde Proband:in erklärt.
 ## 4.)
 **Hinweise:** Funktion/Wertung von BORG-Skala sollte klar und deutlich koommuniziert werden.
 #
-**Änderungsgeschichte:** 1.0 Erste Version
+**Änderungsgeschichte:** 1.0, Janke Eric, Perger Thomas, 17.03.2024
 
