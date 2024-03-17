@@ -23,5 +23,6 @@ Die BORG-Skala ist den beteiligten Personen bekannt/ wurde Proband:in erklärt.
 **Alternative Ablaufschritte:** Wenn BORG-Skala nicht ausgeführt werden kann, könnte man die Daten mit ähnlichen Proband:innen vergleichen. (UC 1. 01)
 ## 4.)
 **Hinweise:** Funktion/Wertung von BORG-Skala sollte klar und deutlich koommuniziert werden.
+#
 **Änderungsgeschichte:** 1.0 Erste Version
 
